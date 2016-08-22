@@ -1,0 +1,28 @@
+.menu {
+    background: #3C3C3C;
+    color: #ADADAD;
+    padding-bottom: 10000px;
+    margin-bottom: -10000px;
+}
+a {
+	font-weight: bold;
+	color: #ADADAD;
+	text-align: center;
+	
+}
+.bkg {
+    background-color: #444444;
+}
+li a.active {
+    color: #23527C;
+    text-decoration: none;
+    background-color: #EEE;
+}
+.dropdown-menu>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+ul{
+	margin-top: 15px;
+}

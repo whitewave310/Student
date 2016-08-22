@@ -1,0 +1,27 @@
+.top{
+	background-color: #3C3C3C;
+	color: #ADADAD;
+}
+h3{
+	margin-left: 15px;
+}
+.header {
+	height: 12%;
+	/*padding-top:15px;*/
+	
+	padding-right: 30px;
+	background: #3C3C3C;
+	vertical-align: middle;
+}
+.header div ul {
+	padding: 20px;
+}
+.wordColor, a {
+    color: #ADADAD;
+}
+
+input{
+	background-color: #3C3C3C;
+	border:0px;
+	color:#ADADAD;
+}
